@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm a Unity & Unreal Engine developer 
+Junior Game Developer at Milestone 
+Tutor for the programming course at @aiv01
 <!--
 **AssoAndrea/AssoAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
